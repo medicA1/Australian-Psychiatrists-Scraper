@@ -19,6 +19,11 @@ psychiatrists.
 However, you can enhance the code and possibly make a more sophisticated waiting mechanisms if desired.
 
 
+## Required Installs
+pip install beautifulsoup4
+pip install selenium
+
+
 ## Discalimer
 
 If you are an Australian seeking psychiatric services, please consider using the Your Health in Mind website to find 
