@@ -21,6 +21,7 @@ However, you can enhance the code and possibly make a more sophisticated waiting
 
 ## Required Installs
 pip install beautifulsoup4
+
 pip install selenium
 
 
