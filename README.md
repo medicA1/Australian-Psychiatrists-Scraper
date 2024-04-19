@@ -16,12 +16,9 @@ Instead of using Selenium for loading each page, I utilized the URL's page loadi
 psychiatrists.
 
 **Simplicity**: The code is intentionally kept simple, since the client only required data stored inside CSV.
-However, you can enhance the code and possibly make a more sophisticated waiting mechanisms if desired.
 
 
 ## Required Installs
-pip install beautifulsoup4
-
 pip install selenium
 
 
